@@ -10,9 +10,9 @@ public static void main(String[] args) {
 	s[5]=60;
 	s[6]=70;
 	s[7]=80;
-	s[8]=90;
-	s[9]=20;
-	s[10]=50;
+//	s[8]=90;
+//	s[9]=20;
+//	s[10]=50;
 	
 	int length = s.length;
 	System.out.println(length);
